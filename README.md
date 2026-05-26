@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hi, I'm Kelvin 👋
-
 ## About Me
 - Frontend developer / cybersecurity
 - Learning AI and backend systems
